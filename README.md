@@ -36,8 +36,8 @@ Olá, meu nome é Leonardo Breda.
 Possuo formação em Gestão financeira, e atualmente estou expandindo a minha área de conhecimento voltado para TI.
     <br/>
      <br/>
-<p align='left'><br/>  👨‍🎓 🇧🇷 Universidade: <a href="https://toledoprudente.edu.br/">Toledo Prudente Centro Universitário  </a>, Gestão Financeira <a href="[(https://pt.wikipedia.org/wiki/Presidente_Prudente)]">Presidente Prudente - SP.</a> </p>
-<p align='left'> 👨‍🎓 🇧🇷 Universidade: <a href="https://univesp.br/">Universidade Virtual do Estado de São Paulo  </a>, Tecnologia da Informação <a href="[https://pt.wikipedia.org/wiki/Adamantina](https://pt.wikipedia.org/wiki/Presidente_Prudente)">Adamantina - SP.</a> </p>
+<p align='left'><br/>  👨‍🎓 🇧🇷 Universidade: <a href="https://toledoprudente.edu.br/">Toledo Prudente Centro Universitário  </a>, Gestão Financeira -<a href="[(https://pt.wikipedia.org/wiki/Presidente_Prudente)]">Presidente Prudente - SP.</a> </p>
+<p align='left'> 👨‍🎓 🇧🇷 Universidade: <a href="https://univesp.br/">Universidade Virtual do Estado de São Paulo  </a>, Tecnologia da Informação -<a href="[https://pt.wikipedia.org/wiki/Adamantina](https://pt.wikipedia.org/wiki/Presidente_Prudente)">Adamantina - SP.</a> </p>
 </div>
 
 
