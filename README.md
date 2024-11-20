@@ -38,7 +38,7 @@ Possuo formação em Gestão financeira, e atualmente estou expandindo a minha �
      <br/>
 
 <p align='left'>📍 🇧🇷 Morando: Brasil;<br/>  👨‍🎓 🇧🇷 Universidade: <a href="https://toledoprudente.edu.br/">Toledo Prudente Centro Universitário  </a>, <a href="[(https://pt.wikipedia.org/wiki/Presidente_Prudente)]">Presidente Prudente - SP.</a> </p>
-<p align='left'>📍  👨‍🎓 🇧🇷 Universidade: <a href="https://univesp.br/">Universidade Virtual do Estado de São Paulo  </a>, <a href="[https://pt.wikipedia.org/wiki/Adamantina](https://pt.wikipedia.org/wiki/Presidente_Prudente)">Adamantina - SP.</a> </p>
+<p align='left'> 👨‍🎓 🇧🇷 Universidade: <a href="https://univesp.br/">Universidade Virtual do Estado de São Paulo  </a>, <a href="[https://pt.wikipedia.org/wiki/Adamantina](https://pt.wikipedia.org/wiki/Presidente_Prudente)">Adamantina - SP.</a> </p>
 </div>
 
 
