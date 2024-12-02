@@ -71,7 +71,7 @@ Work Stacks:</h2>
 
 |  |Description | Stack |
 | --- |--- | --- |
-| <h3>Frontend</h3> | <kbd> Language </kbd> <h5>●• HTML5, CSS3</h5>  | <img height="60"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/> <img height="60"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="HTML5"/> <br/> |
+| <h3>Frontend</h3> | <kbd> Language </kbd> <h5>●• HTML5, CSS3</h5> <h5>●• JavaScript</h5> | <img height="60"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg"/> <img height="60"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="HTML5"/> <img height="60"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" alt="HTML5"/> <br/> |
 | <h3>Backend</h3>   | <kbd> Language </kbd> <h5>●• Python</h5> <kbd> Framework </kbd> <h5>●• Django</h5>  |<img height="60"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="VSCode"/> <br/> <img height="60"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="HTML5"/> | 
 | <h3>Others</h3>   | <kbd> IDE </kbd> <h5>●• PyCharm</h5> <h5>●• VsCode</h5>   |<img height="60"  src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg"/> <img height="60"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg"/><br/>  |
 </div>
