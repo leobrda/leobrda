@@ -99,7 +99,7 @@ Work Stacks:</h2>
 <div style="display:grid;align-items:center;justify-content:center">
   
   <img style="height:100%;width:49%;max-width: 100%; max-height: 164px" src="https://github-readme-stats.vercel.app/api?username=leobrda&theme=merko&count_private=true&show_icons=true&include_all_commits=true"/>
-<img style="height:100%;width:49%;max-width: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=leobrda&theme=merko&hide_border=true"/>
+
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006400&height=120&section=footer"/>
